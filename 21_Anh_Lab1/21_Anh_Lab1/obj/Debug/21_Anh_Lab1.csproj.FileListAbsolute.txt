@@ -1,0 +1,10 @@
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\bin\Debug\21_Anh_Lab1.exe.config
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\bin\Debug\21_Anh_Lab1.exe
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\bin\Debug\21_Anh_Lab1.pdb
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\obj\Debug\21_Anh_Lab1.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\obj\Debug\_21_Anh_Lab1.Form1.resources
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\obj\Debug\_21_Anh_Lab1.Properties.Resources.resources
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\obj\Debug\21_Anh_Lab1.csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\obj\Debug\21_Anh_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\obj\Debug\21_Anh_Lab1.exe
+C:\Users\LAPTOP\source\repos\21_Anh_Lab1\21_Anh_Lab1\obj\Debug\21_Anh_Lab1.pdb

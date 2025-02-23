@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3B3216-2C04-44F7-B97F-C82278977915}|CalculatorTester\\CalculatorTester.csproj|c:\\users\\laptop\\source\\repos\\21_anh_lab1\\calculatortester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3B3216-2C04-44F7-B97F-C82278977915}|CalculatorTester\\CalculatorTester.csproj|solutionrelative:calculatortester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88651D9C-5EBF-47D9-9345-D963A5700DEF}|21_Anh_Lab1\\21_Anh_Lab1.csproj|c:\\users\\laptop\\source\\repos\\21_anh_lab1\\21_anh_lab1\\caculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88651D9C-5EBF-47D9-9345-D963A5700DEF}|21_Anh_Lab1\\21_Anh_Lab1.csproj|solutionrelative:21_anh_lab1\\caculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88651D9C-5EBF-47D9-9345-D963A5700DEF}|21_Anh_Lab1\\21_Anh_Lab1.csproj|c:\\users\\laptop\\source\\repos\\21_anh_lab1\\21_anh_lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88651D9C-5EBF-47D9-9345-D963A5700DEF}|21_Anh_Lab1\\21_Anh_Lab1.csproj|solutionrelative:21_anh_lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88651D9C-5EBF-47D9-9345-D963A5700DEF}|21_Anh_Lab1\\21_Anh_Lab1.csproj|c:\\users\\laptop\\source\\repos\\21_anh_lab1\\21_anh_lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88651D9C-5EBF-47D9-9345-D963A5700DEF}|21_Anh_Lab1\\21_Anh_Lab1.csproj|solutionrelative:21_anh_lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\CalculatorTester\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorTester\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\CalculatorTester\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorTester\\UnitTest1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:09:08.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caculation.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\21_Anh_Lab1\\Caculation.cs",
+              "RelativeDocumentMoniker": "21_Anh_Lab1\\Caculation.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\21_Anh_Lab1\\Caculation.cs",
+              "RelativeToolTip": "21_Anh_Lab1\\Caculation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:52:38.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\21_Anh_Lab1\\Form1.cs",
+              "RelativeDocumentMoniker": "21_Anh_Lab1\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\21_Anh_Lab1\\Form1.cs",
+              "RelativeToolTip": "21_Anh_Lab1\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:51:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\21_Anh_Lab1\\Form1.cs",
+              "RelativeDocumentMoniker": "21_Anh_Lab1\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\21_Anh_Lab1\\21_Anh_Lab1\\Form1.cs [Design]",
+              "RelativeToolTip": "21_Anh_Lab1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:43:53.092Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
